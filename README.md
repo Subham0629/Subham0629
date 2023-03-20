@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham0629" alt="subham0629" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://github.com/Subham0629">
+  Subham0629
+  <img src=""/></a></h3>
 <p align="left">
 </p>
 
