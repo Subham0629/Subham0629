@@ -1,11 +1,17 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm SUBHAM KANDARI</h1>
 <h3 align="center">A passionate FULL STACK WEB DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham0629&label=Profile%20views&color=0e75b6&style=flat" alt="subham0629" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham0629" alt="subham0629" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://subham0629.github.io/](https://subham0629.github.io/)
+
+- 📫 How to reach me **https://www.linkedin.com/in/subham-kandari-a01003133/**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B3Tdzax-cE-dd75tsRg2-gUTBD2c5wpN/view?usp=share_link](https://drive.google.com/file/d/1B3Tdzax-cE-dd75tsRg2-gUTBD2c5wpN/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:<a href="https://github.com/Subham0629">
   Subham0629
