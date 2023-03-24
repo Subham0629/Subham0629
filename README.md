@@ -14,6 +14,7 @@
 
 
 <h3 align="left">Connect with me:<a href="https://github.com/Subham0629">
+  </br>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="babel" width="40" height="40"/></a></h3>
 <p align="left">
 </p>
