@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/subham-kandari-a01003133/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B3Tdzax-cE-dd75tsRg2-gUTBD2c5wpN/view?usp=share_link](https://drive.google.com/file/d/1B3Tdzax-cE-dd75tsRg2-gUTBD2c5wpN/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B3Tdzax-cE-dd75tsRg2-gUTBD2c5wpN/view?usp=share_link)
 
 
 <h3 align="left">Connect with me:<a href="https://github.com/Subham0629">
