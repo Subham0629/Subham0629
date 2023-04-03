@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham0629&label=Profile%20views&color=0e75b6&style=flat" alt="subham0629" /> </p>
 
 
-- 👨‍💻 All of my projects are available at (https://subham0629.github.io/)
+- 👨‍💻 All of my projects are available at <a target="blank" href="https://subham0629.github.io/">Portfolio</a>
 
 - 📫 How to reach me **https://www.linkedin.com/in/subham-kandari-a01003133/**
 
