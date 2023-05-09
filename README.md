@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SUBHAM KANDARI</h1>
-<img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz" alt="babel" width="" height=""/>
+<img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz" alt="babel" width="" height="70%"/>
 
 <h3 align="center">A passionate FULL STACK WEB DEVELOPER</h3>
 
